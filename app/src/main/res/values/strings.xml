@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Google Map Search for a paricular place</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
